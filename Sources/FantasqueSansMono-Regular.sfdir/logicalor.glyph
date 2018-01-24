@@ -1,0 +1,19 @@
+StartChar: logicalor
+Encoding: 8744 8744 990
+Width: 1060
+VWidth: 0
+Flags: W
+HStem: -5 21G<395 574>
+LayerCount: 2
+Fore
+SplineSet
+413 -5 m 1
+ 377 162 152 887 62 1144 c 5
+ 221 1181 l 5
+ 308 914 390 682 494 325 c 5
+ 592 634 683 911 778 1180 c 1
+ 930 1140 l 1
+ 834 890 607 155 574 -4 c 1
+ 413 -5 l 1
+EndSplineSet
+EndChar
